@@ -1,0 +1,4 @@
+[ 2017-02-24T13:25:26+08:00 ]EXCEPTION: SELECT * FROM   WHERE username = ? AND password = ?     ;BindParams:array (
+  1 => '123',
+  2 => 'zNq40YO/9okdSQIZhIJmSxwN5+c4dShdYEt4L1tgoQo=',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE username = '123' AND password = 'zNq40YO/9okdSQIZhIJmSxwN5+c4dShdYEt4L1tgo' at line 1
